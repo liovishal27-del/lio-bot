@@ -4,4 +4,4 @@ requests
 beautifulsoup4
 flask
 PyMuPDF
-PyMuPDF
+curl_cffi
