@@ -3,3 +3,5 @@ tgcrypto
 requests
 beautifulsoup4
 flask
+PyMuPDF
+PyMuPDF
