@@ -20,7 +20,7 @@ BOT_TOKEN = "8959460412:AAEivVObxVzHbNnCquAmTpLZeFz1V3wPaIo"
 ADMIN_ID = 8302836831
 # =======================================================
 
-EXTRACTED_BY = "@LioBankingMax✨"
+EXTRACTED_BY = "@LioBankingM✨"
 WATERMARK_TEXT = "Lio Banking Pro"  # Clean Render Text
 DOWNLOAD_DIR = "./downloads"
 TOKEN_FILE = "saved_tokens.json"
